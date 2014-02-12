@@ -1,0 +1,1 @@
+Trying to syncronise git with django.
